@@ -39,7 +39,7 @@ For development, you will only need Node.js and a node global package (npm or Ya
 
 Create a .env file in root directory and copy this command, changging "Key" to a secrete key for your JWT.
 
-  JWT_SECRET_KEY = "Key";
+    JWT_SECRET_KEY = "Key";
 
 ## Running the project
  
