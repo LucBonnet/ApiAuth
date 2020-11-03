@@ -4,7 +4,7 @@ A Rest API with TypeScript, Express, JWT authentication and SQLite TypeORM.
 
 ## Requirements
 
-For development, you will only need Node.js and a node global package (npm or Yarn) installed in your environement
+For development, you will only need Node.js and a node global package (npm or Yarn) installed in your environment
 
 ### Node
   ### Installation
