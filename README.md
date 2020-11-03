@@ -8,7 +8,7 @@ For development, you will only need Node.js and a node global package (npm or Ya
 
 ### Node
   ### Installation
-  [official Node.js website](https://nodejs.org/)
+  [Official Node.js website](https://nodejs.org/)
   
   If the installation was successful, you will can to run the following command.
 
@@ -20,7 +20,7 @@ For development, you will only need Node.js and a node global package (npm or Ya
 
   If you need to update 'npm', you can run the following command.
 
-  $ npm install npm -g
+    $ npm install npm -g
 
   ### Yarn installation
   Just run the following command.
@@ -39,11 +39,11 @@ For development, you will only need Node.js and a node global package (npm or Ya
 
 Create a .env file in root directory and copy this command, changging "Key" to a secrete key for your JWT.
 
-JWT_SECRET_KEY = "Key";
+  JWT_SECRET_KEY = "Key";
 
 ## Running the project
  
-  $ yarn dev
+    $ yarn dev
 
 ## **Learn more**
 
